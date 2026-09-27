@@ -12,11 +12,15 @@ npm install {{ remrg:var project-name }}
 
 ### Basic Usage
 
+## Getting Started
+
+Read the [Getting Started Guide](./docs/guides/getting-started.md) to get started.
+
 ## Contributing
 
 - [Contributing Guide](./CONTRIBUTING.md)
-- [Setup Guide](./docs/guides//setup.md)
-- [Development Guide](./docs/guides/development.md)
+- [Setup Guide](./docs/contributing/setup.md)
+- [Development Guide](./docs/contributing/development.md)
 
 ## License
 
